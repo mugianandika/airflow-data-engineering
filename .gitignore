@@ -1,2 +1,7 @@
 kafka/scripts/
 db/sql/
+__pycache__/
+*.pycgit rm -r --cached airflow/dags/__pycache__
+git add .gitignore
+git commit -m "Remove Python cache files"
+git push
