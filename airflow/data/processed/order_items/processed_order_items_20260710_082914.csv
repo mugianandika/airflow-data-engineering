@@ -1,0 +1,27 @@
+order_item_id,order_id,product_id,quantity,unit_price,source_file,source_path,ingestion_time
+OI0000001,ORD000001,P0027,5,425117.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000002,ORD000001,P0029,5,121064.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000003,ORD000001,P0019,3,378435.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000004,ORD000002,P0005,4,"80605,0",order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000005,ORD000002,P0030,4,480127.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000006,ORD000002,P0011,1,423361.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000007,ORD000002,P0015,2,204230.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000008,ORD000003,P0004,5,134018.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000009,ORD000003,P0015,2,204230.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000010,ORD000003,P0015,-1,204230.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000011,ORD000003,P0012,5,401088.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000012,ORD000004,P0014,5,"72178,0",order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000013,ORD000005,P0005,1,70418,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000014,ORD000005,P0025,5,22631.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000015,ORD000005,P0007,1,235594.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000016,ORD000005,P0019,5,378435.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000017,ORD000006,P0014,5,72178.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000018,ORD000006,P0020,1,271911.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000019,ORD000006,P0025,1,22631.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000020,ORD000007,P0021,2,104569.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000021,ORD000007,P0018,4,347929,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000022,ORD000007,P0013,2,251167.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000023,ORD000008,P0017,4,162648.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000024,ORD000008,P0002,4,91509,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000025,ORD000009,P0022,2,108437.0,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21
+OI0000026,ORD000009,P0011,5,431364,order_items_20260710_082914.csv,/opt/airflow/data/raw/mugi/order_items/order_items_20260710_082914.csv,2026-07-13 07:03:21

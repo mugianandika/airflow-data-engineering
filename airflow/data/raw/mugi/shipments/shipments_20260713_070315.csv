@@ -1,0 +1,10 @@
+shipment_id,order_id,courier,shipped_date,delivered_date,status
+SHP000001,ORD000001,JNE,2026-07-13,2026-07-14,delivered
+SHP000002,ORD000002,AnterAja,2026-07-13,,in_transit
+SHP000003,ORD000003,AnterAja,2026-07-13,,in_transit
+SHP000004,ORD000004,,2026-07-13,,in_transit
+SHP000005,ORD000005,SiCepat,2026-07-13,,in_transit
+SHP000006,ORD000007,Ninja Express,2026-07-13,,in_transit
+SHP000007,ORD000008,Ninja Express,2026-07-14,,in_transit
+SHP000008,ORD000009,JNE,2026-07-14,,in_transit
+SHP000001,ORD000001,JNE,2026-07-13,2026-07-14,delivered

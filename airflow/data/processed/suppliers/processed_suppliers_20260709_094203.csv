@@ -1,0 +1,4 @@
+supplier_id,supplier_name,city,source_file,source_path,ingestion_time
+SUP001,CV Harapan Baru,Kota Administrasi Jakarta Utara,suppliers_20260709_094203.csv,/opt/airflow/data/raw/ages/suppliers/suppliers_20260709_094203.csv,2026-07-09 09:42:08
+SUP002,PT Sumber Makmur,Kota Administrasi Jakarta Timur,suppliers_20260709_094203.csv,/opt/airflow/data/raw/ages/suppliers/suppliers_20260709_094203.csv,2026-07-09 09:42:08
+SUP003,CV Sentosa Prima,Pariaman,suppliers_20260709_094203.csv,/opt/airflow/data/raw/ages/suppliers/suppliers_20260709_094203.csv,2026-07-09 09:42:08

@@ -1,0 +1,15 @@
+order_id,customer_id,store_id,order_date,payment_method,status,source_file,source_path,ingestion_time
+ORD000001,C00026,ST004,2026-07-10 06:49:51,e-wallet,pending,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000002,C00004,ST004,2026-07-10 07:05:50,credit_card,completed,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000003,C00031,ST003,2026-07-10 07:10:07,e-wallet,completed,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000004,C00017,ST006,10/07/2026 07:15:42,bank_transfer,completed,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000005,C00020,ST005,2026-07-10 07:21:44,qris,pending,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000006,C00007,ST006,2026-07-10 07:02:10,bank_transfer,completed,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000007,C00008,ST006,2026-07-10 07:37:42,qris,pending,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000008,C00010,ST005,2026-07-10 07:00:45,qris,completed,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000009,C00030,ST004,2026-07-10 07:33:07,bank_transfer,pending,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000002,C00004,ST004,2026-07-10 07:05:50,credit_card,completed,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000003,C00031,ST003,2026-07-10 07:10:07,e-wallet,completed,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000004,C00017,ST006,10/07/2026 07:15:42,bank_transfer,completed,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000006,C00007,ST006,2026-07-10 07:02:10,bank_transfer,completed,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21
+ORD000008,C00010,ST005,2026-07-10 07:00:45,qris,completed,orders_20260710_073803.csv,/opt/airflow/data/raw/mugi/orders/orders_20260710_073803.csv,2026-07-13 07:03:21

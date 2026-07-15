@@ -1,0 +1,5 @@
+order_id,promo_id,source_file,source_path,ingestion_time
+ORD000005,PROMO001,order_promotions_20260710_073803.csv,/opt/airflow/data/raw/mugi/order_promotions/order_promotions_20260710_073803.csv,2026-07-13 07:03:20
+ORD000006,PROMO004,order_promotions_20260710_073803.csv,/opt/airflow/data/raw/mugi/order_promotions/order_promotions_20260710_073803.csv,2026-07-13 07:03:20
+ORD000008,PROMO003,order_promotions_20260710_073803.csv,/opt/airflow/data/raw/mugi/order_promotions/order_promotions_20260710_073803.csv,2026-07-13 07:03:20
+ORD000009,PROMO003,order_promotions_20260710_073803.csv,/opt/airflow/data/raw/mugi/order_promotions/order_promotions_20260710_073803.csv,2026-07-13 07:03:20

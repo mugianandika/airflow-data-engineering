@@ -1,0 +1,37 @@
+product_id,product_name,category_id,unit_price,source_file,source_path,ingestion_time
+P0001,Mainan - At P0001,CAT001,236530,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0002,Mainan - Magnam P0002,CAT001,47186,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0003,Mainan - Qui P0003,CAT001,46715,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0004,Olahraga - Facilis P0004,CAT002,-274037,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0005,Olahraga - Harum P0005,CAT002,186754,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0006,Olahraga - Omnis P0006,CAT002,68962,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0007,Olahraga - Temporibus P0007,CAT002,28426,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0008,Olahraga - Facilis P0008,CAT002,27706,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0009,Olahraga - Vel P0009,CAT002,-58160,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0010,Kecantikan - Fuga P0010,CAT003,83275,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0011,Kecantikan - Deserunt P0011,CAT003,288455,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0012,Kecantikan - Accusantium P0012,CAT003,44206,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0013,Kecantikan - Fugiat P0013,CAT003,130166,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0014,Kecantikan - Aperiam P0014,CAT003,184363,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0015,Kecantikan - Amet P0015,CAT003,126508,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0016,Elektronik - Ipsam P0016,CAT004,141922,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0017,Elektronik - Odit P0017,CAT004,170541,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0018,Elektronik - Sit P0018,CAT004,145215,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0019,Fashion - Molestiae P0019,CAT005,35159,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0020,Fashion - Non P0020,CAT005,146581,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0021,Fashion - Rerum P0021,CAT005,37229,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0022,Fashion - Maiores P0022,CAT005,137354,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0023,Buku - Tenetur P0023,CAT006,111135,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0024,Buku - Delectus P0024,CAT006,201085,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0025,Buku - Cum P0025,CAT006,211738,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0026,Kebutuhan Rumah - Esse P0026,CAT007,190506,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0027,Kebutuhan Rumah - Vel P0027,CAT007,26349,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0028,Kebutuhan Rumah - Laboriosam P0028,CAT007,249262,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0029,Kesehatan - Vel P0029,CAT008,291140,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0030,Kesehatan - Incidunt P0030,CAT008,45404,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0031,Kesehatan - Alias P0031,CAT008,53688,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0032,Kesehatan - Libero P0032,CAT008,42216,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0033,Otomotif - Voluptatem P0033,CAT009,-289100,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0034,Otomotif - Tempore P0034,CAT009,221633,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0035,Otomotif - Sapiente P0035,CAT009,180277,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32
+P0036,Otomotif - Et P0036,CAT009,190581,products_20260709_093812.csv,/opt/airflow/data/raw/ages/products/products_20260709_093812.csv,2026-07-09 09:40:32

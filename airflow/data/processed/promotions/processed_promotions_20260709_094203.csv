@@ -1,0 +1,8 @@
+promo_id,promo_code,discount_pct,start_date,end_date,source_file,source_path,ingestion_time
+PROMO001,PROMO685,30,2026-04-25,2026-05-12,promotions_20260709_094203.csv,/opt/airflow/data/raw/ages/promotions/promotions_20260709_094203.csv,2026-07-09 09:42:07
+PROMO002,PROMO235,25,2026-04-26,2026-05-09,promotions_20260709_094203.csv,/opt/airflow/data/raw/ages/promotions/promotions_20260709_094203.csv,2026-07-09 09:42:07
+PROMO003,PROMO609,15,2026-02-23,2026-03-09,promotions_20260709_094203.csv,/opt/airflow/data/raw/ages/promotions/promotions_20260709_094203.csv,2026-07-09 09:42:07
+PROMO004,PROMO216,25,2026-03-02,2026-03-28,promotions_20260709_094203.csv,/opt/airflow/data/raw/ages/promotions/promotions_20260709_094203.csv,2026-07-09 09:42:07
+PROMO005,PROMO778,25,2026-06-25,2026-07-03,promotions_20260709_094203.csv,/opt/airflow/data/raw/ages/promotions/promotions_20260709_094203.csv,2026-07-09 09:42:07
+PROMO006,PROMO176,30,2026-05-08,2026-06-03,promotions_20260709_094203.csv,/opt/airflow/data/raw/ages/promotions/promotions_20260709_094203.csv,2026-07-09 09:42:07
+PROMO007,PROMO753,25,2026-05-22,2026-05-26,promotions_20260709_094203.csv,/opt/airflow/data/raw/ages/promotions/promotions_20260709_094203.csv,2026-07-09 09:42:07

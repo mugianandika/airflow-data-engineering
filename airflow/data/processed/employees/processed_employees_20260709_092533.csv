@@ -1,0 +1,13 @@
+employee_id,name,store_id,role,hire_date,source_file,source_path,ingestion_time
+EMP0001,Hartana Andriani,ST001,Kasir,2022-11-26,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45
+EMP0002,Ulva Wahyudin,ST001,Store Manager,2024-05-16,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45
+EMP0003,Zulaikha Rahimah,ST002,Store Manager,2025-03-18,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45
+EMP0004,Najam Wacana,ST003,Sales Associate,2024-09-12,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45
+EMP0005,Dr. Mala Iswahyudi,ST003,Stock Clerk,2026-01-19,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45
+EMP0006,"Fathonah Sihombing, M.Kom.",ST006,Stock Clerk,2024-06-04,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45
+EMP0007,dr. Danang Lailasari,ST003,Store Manager,2023-06-02,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45
+EMP0008,Ika Nasyidah,ST007,Sales Associate,2025-07-27,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45
+EMP0009,Karja Marpaung,ST005,Store Manager,2026-05-22,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45
+EMP0010,"Puti Umi Hastuti, S.Ked",ST002,Kasir,2024-04-23,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45
+EMP0011,Hasim Nashiruddin,,Store Manager,2023-11-23,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45
+EMP0012,dr. Laila Prastuti,ST001,Store Manager,2023-12-25,employees_20260709_092533.csv,/opt/airflow/data/raw/ages/employees/employees_20260709_092533.csv,2026-07-09 09:34:45

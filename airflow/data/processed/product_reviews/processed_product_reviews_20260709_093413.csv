@@ -1,0 +1,4 @@
+review_id,customer_id,product_id,rating,review_text,review_date,source_file,source_path,ingestion_time
+REV000001,C00008,P0002,4,Nemo porro sed placeat enim exercitationem neque rem fugiat nesciunt.,2026-07-09,product_reviews_20260709_093413.csv,/opt/airflow/data/raw/ages/product_reviews/product_reviews_20260709_093413.csv,2026-07-09 09:36:25
+REV000002,C00029,P0028,1,Sed facere beatae nobis a vel delectus porro.,2026-07-09,product_reviews_20260709_093413.csv,/opt/airflow/data/raw/ages/product_reviews/product_reviews_20260709_093413.csv,2026-07-09 09:36:25
+REV000003,C00014,P0019,4,Consequatur dolorum beatae nisi nulla eveniet quisquam reiciendis ad.,2026-07-09,product_reviews_20260709_093413.csv,/opt/airflow/data/raw/ages/product_reviews/product_reviews_20260709_093413.csv,2026-07-09 09:36:25

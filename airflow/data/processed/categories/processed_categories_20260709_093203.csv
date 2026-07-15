@@ -1,0 +1,10 @@
+category_id,category_name,source_file,source_path,ingestion_time
+CAT001,Mainan,categories_20260709_093203.csv,/opt/airflow/data/raw/ages/categories/categories_20260709_093203.csv,2026-07-09 09:37:07
+CAT002,Olahraga,categories_20260709_093203.csv,/opt/airflow/data/raw/ages/categories/categories_20260709_093203.csv,2026-07-09 09:37:07
+CAT003,Kecantikan,categories_20260709_093203.csv,/opt/airflow/data/raw/ages/categories/categories_20260709_093203.csv,2026-07-09 09:37:07
+CAT004,Elektronik,categories_20260709_093203.csv,/opt/airflow/data/raw/ages/categories/categories_20260709_093203.csv,2026-07-09 09:37:07
+CAT005,Fashion,categories_20260709_093203.csv,/opt/airflow/data/raw/ages/categories/categories_20260709_093203.csv,2026-07-09 09:37:07
+CAT006,Buku,categories_20260709_093203.csv,/opt/airflow/data/raw/ages/categories/categories_20260709_093203.csv,2026-07-09 09:37:07
+CAT007,Kebutuhan Rumah,categories_20260709_093203.csv,/opt/airflow/data/raw/ages/categories/categories_20260709_093203.csv,2026-07-09 09:37:07
+CAT008,Kesehatan,categories_20260709_093203.csv,/opt/airflow/data/raw/ages/categories/categories_20260709_093203.csv,2026-07-09 09:37:07
+CAT009,Otomotif,categories_20260709_093203.csv,/opt/airflow/data/raw/ages/categories/categories_20260709_093203.csv,2026-07-09 09:37:07

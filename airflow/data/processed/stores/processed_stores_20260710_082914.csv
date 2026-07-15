@@ -1,0 +1,8 @@
+store_id,store_name,city,opened_date,source_file,source_path,ingestion_time
+ST001,Surabaya Timur,Surabaya,2022-06-23,stores_20260710_082914.csv,/opt/airflow/data/raw/mugi/stores/stores_20260710_082914.csv,2026-07-13 07:03:25
+ST002,Malang Kota,Malang,2022-08-26,stores_20260710_082914.csv,/opt/airflow/data/raw/mugi/stores/stores_20260710_082914.csv,2026-07-13 07:03:25
+ST003,Bandung Kota,Bandung,2025-04-22,stores_20260710_082914.csv,/opt/airflow/data/raw/mugi/stores/stores_20260710_082914.csv,2026-07-13 07:03:25
+ST004,Jakarta Pusat,Jakarta,2024-01-10,stores_20260710_082914.csv,/opt/airflow/data/raw/mugi/stores/stores_20260710_082914.csv,2026-07-13 07:03:25
+ST005,Semarang Tengah,Semarang,2021-08-16,stores_20260710_082914.csv,/opt/airflow/data/raw/mugi/stores/stores_20260710_082914.csv,2026-07-13 07:03:25
+ST006,Denpasar Utara,Denpasar,2025-05-24,stores_20260710_082914.csv,/opt/airflow/data/raw/mugi/stores/stores_20260710_082914.csv,2026-07-13 07:03:25
+ST007,Medan Baru,Medan,2026-07-10,stores_20260710_082914.csv,/opt/airflow/data/raw/mugi/stores/stores_20260710_082914.csv,2026-07-13 07:03:25

@@ -1,0 +1,5 @@
+promo_id,promo_code,discount_pct,start_date,end_date,source_file,source_path,ingestion_time
+PROMO001,PROMO966,15,2026-06-06,2026-06-15,promotions_20260710_073803.csv,/opt/airflow/data/raw/mugi/promotions/promotions_20260710_073803.csv,2026-07-13 07:03:25
+PROMO002,PROMO740,5,2026-06-04,2026-06-13,promotions_20260710_073803.csv,/opt/airflow/data/raw/mugi/promotions/promotions_20260710_073803.csv,2026-07-13 07:03:25
+PROMO003,PROMO808,20,2026-02-28,2026-03-14,promotions_20260710_073803.csv,/opt/airflow/data/raw/mugi/promotions/promotions_20260710_073803.csv,2026-07-13 07:03:25
+PROMO004,PROMO499,5,2026-02-05,2026-02-25,promotions_20260710_073803.csv,/opt/airflow/data/raw/mugi/promotions/promotions_20260710_073803.csv,2026-07-13 07:03:25

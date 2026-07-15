@@ -1,0 +1,15 @@
+order_id,customer_id,store_id,order_date,payment_method,status
+ORD000001,C00026,ST004,2026-07-13 06:15:03,e-wallet,pending
+ORD000002,C00004,ST004,2026-07-13 06:31:02,credit_card,completed
+ORD000003,C00031,ST003,2026-07-13 06:35:19,e-wallet,completed
+ORD000004,C00017,ST006,13/07/2026 06:40:54,bank_transfer,completed
+ORD000005,C00020,ST005,2026-07-13 06:46:56,qris,pending
+ORD000006,C00007,ST006,2026-07-13 06:27:22,bank_transfer,completed
+ORD000007,C00008,ST006,2026-07-13 07:02:54,qris,pending
+ORD000008,C00010,ST005,2026-07-13 06:25:57,qris,completed
+ORD000009,C00030,ST004,2026-07-13 06:58:19,bank_transfer,pending
+ORD000002,C00004,ST004,2026-07-13 06:31:02,credit_card,completed
+ORD000003,C00031,ST003,2026-07-13 06:35:19,e-wallet,completed
+ORD000004,C00017,ST006,13/07/2026 06:40:54,bank_transfer,completed
+ORD000006,C00007,ST006,2026-07-13 06:27:22,bank_transfer,completed
+ORD000008,C00010,ST005,2026-07-13 06:25:57,qris,completed

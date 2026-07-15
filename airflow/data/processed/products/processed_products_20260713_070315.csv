@@ -1,0 +1,31 @@
+product_id,product_name,category_id,unit_price,source_file,source_path,ingestion_time
+P0001,Kebutuhan Rumah - Ea P0001,CAT001,101491,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0002,Kebutuhan Rumah - Asperiores P0002,CAT001,82747,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0003,Kebutuhan Rumah - Magni P0003,,308244,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0004,Kebutuhan Rumah - Tenetur P0004,CAT001,134018,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0005,Kebutuhan Rumah - Magni P0005,CAT001,80605,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0006,Kesehatan - Corporis P0006,CAT002,467542,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0007,Kesehatan - Laboriosam P0007,CAT002,235594,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0008,Kesehatan - Ad P0008,CAT002,113447,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0009,Kesehatan - Quia P0009,CAT002,282241,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0010,Kesehatan - Error P0010,CAT002,486886,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0011,Kesehatan - Accusantium P0011,CAT002,423361,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0012,Elektronik - Ipsam P0012,CAT003,401088,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0013,Elektronik - Nisi P0013,CAT003,251167,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0014,Elektronik - Praesentium P0014,CAT003,72178,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0015,Elektronik - Cumque P0015,CAT003,204230,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0016,Kecantikan - Harum P0016,CAT004,304488,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0017,Kecantikan - Quod P0017,CAT004,162648,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0018,Kecantikan - Alias P0018,CAT004,327405,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0019,Kecantikan - Commodi P0019,CAT004,378435,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0020,Makanan & Minuman - Sit P0020,CAT005,271911,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0021,Makanan & Minuman - Minima P0021,CAT005,104569,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0022,Makanan & Minuman - Soluta P0022,CAT005,108437,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0023,Makanan & Minuman - Excepturi P0023,CAT005,397713,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0024,Buku - Deleniti P0024,CAT006,242046,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0025,Buku - Aliquid P0025,CAT006,22631,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0026,Buku - A P0026,CAT006,348638,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0027,Buku - Harum P0027,CAT006,425117,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0028,Olahraga - Laborum P0028,CAT007,407344,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0029,Olahraga - Nam P0029,CAT007,121064,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25
+P0030,Olahraga - Sequi P0030,CAT007,480127,products_20260713_070315.csv,/opt/airflow/data/raw/mugi/products/products_20260713_070315.csv,2026-07-13 07:03:25

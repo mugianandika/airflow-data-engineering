@@ -1,0 +1,4 @@
+review_id,customer_id,product_id,rating,review_text,review_date,source_file,source_path,ingestion_time
+REV000001,C00022,P0004,3,Recusandae dolor qui rerum repudiandae perferendis unde quidem perspiciatis corporis nemo laborum.,2026-07-10,product_reviews_20260710_082914.csv,/opt/airflow/data/raw/mugi/product_reviews/product_reviews_20260710_082914.csv,2026-07-13 07:03:25
+REV000002,C00023,P0023,5,,2026-07-10,product_reviews_20260710_082914.csv,/opt/airflow/data/raw/mugi/product_reviews/product_reviews_20260710_082914.csv,2026-07-13 07:03:25
+REV000003,C00019,P0004,3,Porro quia ratione exercitationem ad dolores earum ipsa ab incidunt inventore molestiae.,2026-07-10,product_reviews_20260710_082914.csv,/opt/airflow/data/raw/mugi/product_reviews/product_reviews_20260710_082914.csv,2026-07-13 07:03:25

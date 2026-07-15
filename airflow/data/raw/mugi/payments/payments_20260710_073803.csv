@@ -1,0 +1,13 @@
+payment_id,order_id,method,amount,status,paid_at
+PAY000001,ORD000001,e-wallet,3866210.0,failed,
+PAY000002,ORD000002,credit_card,3074749.0,failed,
+PAY000003,ORD000003,e-wallet,3083990.0,success,2026-07-10 07:38:03
+PAY000004,ORD000004,bank_transfer,360890.0,pending,
+PAY000005,ORD000005,qris,2311342.0,pending,
+PAY000006,ORD000006,bank_transfer,655432.0,pending,
+PAY000007,ORD000007,qris,2103188.0,pending,
+PAY000008,ORD000008,qris,1016628.0,pending,
+PAY000009,ORD000009,bank_transfer,2373694.0,pending,
+PAY000001,ORD000001,e-wallet,3866210.0,failed,
+PAY000002,ORD000002,credit_card,3074749.0,failed,
+PAY000003,ORD000003,e-wallet,3083990.0,success,2026-07-10 07:38:03

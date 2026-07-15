@@ -1,0 +1,18 @@
+order_id,customer_id,store_id,order_date,payment_method,status,source_file,source_path,ingestion_time
+ORD000001,C00023,ST002,09/07/2026 09:07:09,cod,pending,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000002,C00013,ST007,2026-07-09 09:25:17,e-wallet,pending,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000003,C00031,ST003,2026-07-09 09:11:26,qris,pending,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000004,C00032,ST006,2026-07-09 09:14:39,qris,completed,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000005,C00033,ST002,2026-07-09 08:54:57,e-wallet,pending,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000006,C00032,ST004,2026-07-09 09:03:11,credit_card,completed,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000007,C00014,ST005,2026-07-09 08:58:59,bank_transfer,pending,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000008,C00032,ST006,09/07/2026 08:45:18,cod,completed,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000009,C00004,ST007,09/07/2026 09:31:16,bank_transfer,pending,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000010,C00018,ST003,09/07/2026 09:03:30,cod,pending,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000011,C00014,ST001,09/07/2026 09:01:15,cod,completed,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000012,C00019,ST004,2026-07-09 08:51:03,credit_card,pending,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000013,C00003,ST006,09/07/2026 09:12:10,cod,pending,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000004,C00032,ST006,2026-07-09 09:14:39,qris,completed,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000006,C00032,ST004,2026-07-09 09:03:11,credit_card,completed,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000008,C00032,ST006,09/07/2026 08:45:18,cod,completed,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27
+ORD000011,C00014,ST001,09/07/2026 09:01:15,cod,completed,orders_20260709_093228.csv,/opt/airflow/data/raw/ages/orders/orders_20260709_093228.csv,2026-07-09 09:36:27

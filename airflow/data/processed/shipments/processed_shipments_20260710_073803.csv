@@ -1,0 +1,10 @@
+shipment_id,order_id,courier,shipped_date,delivered_date,status,source_file,source_path,ingestion_time
+SHP000001,ORD000001,JNE,2026-07-10,2026-07-11,delivered,shipments_20260710_073803.csv,/opt/airflow/data/raw/mugi/shipments/shipments_20260710_073803.csv,2026-07-13 07:03:25
+SHP000002,ORD000002,AnterAja,2026-07-10,,in_transit,shipments_20260710_073803.csv,/opt/airflow/data/raw/mugi/shipments/shipments_20260710_073803.csv,2026-07-13 07:03:25
+SHP000003,ORD000003,AnterAja,2026-07-10,,in_transit,shipments_20260710_073803.csv,/opt/airflow/data/raw/mugi/shipments/shipments_20260710_073803.csv,2026-07-13 07:03:25
+SHP000004,ORD000004,,2026-07-10,,in_transit,shipments_20260710_073803.csv,/opt/airflow/data/raw/mugi/shipments/shipments_20260710_073803.csv,2026-07-13 07:03:25
+SHP000005,ORD000005,SiCepat,2026-07-10,,in_transit,shipments_20260710_073803.csv,/opt/airflow/data/raw/mugi/shipments/shipments_20260710_073803.csv,2026-07-13 07:03:25
+SHP000006,ORD000007,Ninja Express,2026-07-10,,in_transit,shipments_20260710_073803.csv,/opt/airflow/data/raw/mugi/shipments/shipments_20260710_073803.csv,2026-07-13 07:03:25
+SHP000007,ORD000008,Ninja Express,2026-07-11,,in_transit,shipments_20260710_073803.csv,/opt/airflow/data/raw/mugi/shipments/shipments_20260710_073803.csv,2026-07-13 07:03:25
+SHP000008,ORD000009,JNE,2026-07-11,,in_transit,shipments_20260710_073803.csv,/opt/airflow/data/raw/mugi/shipments/shipments_20260710_073803.csv,2026-07-13 07:03:25
+SHP000001,ORD000001,JNE,2026-07-10,2026-07-11,delivered,shipments_20260710_073803.csv,/opt/airflow/data/raw/mugi/shipments/shipments_20260710_073803.csv,2026-07-13 07:03:25
